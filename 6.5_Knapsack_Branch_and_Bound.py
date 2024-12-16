@@ -1,3 +1,5 @@
+#Conjunto 5 - Branch and Bound - Knapsack Problem
+
 #Classe para organizar informações da árvore de decisão
 class Node:
     def __init__(self, level, profit, weight, bound):
