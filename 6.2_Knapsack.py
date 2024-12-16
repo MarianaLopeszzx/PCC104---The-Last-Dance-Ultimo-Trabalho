@@ -1,3 +1,5 @@
+#Conjunto 2 - Programação Dinâmica - Knapsack Problem
+
 def MFKnapsack(n, W, Weights, Values):
     # Criando a tabela F com n+1 linhas (uma p/ cada item + caso inicial) e W+1 (uma p/ cada capacidade de 0 até W) colunas, inicializando todos os valores com -1
     F = [[-1]*(W+1) for _ in range(n+1)]
