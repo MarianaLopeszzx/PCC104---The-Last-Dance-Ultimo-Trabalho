@@ -1,3 +1,5 @@
+#Conjunto 4 - Backtracking - Subset Sum
+
 def backtrack(nums, target, start, subset, current_sum):
     #nums: lista ordenada de números para gerar subconjuntos
     #target: A soma alvo
