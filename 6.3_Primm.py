@@ -1,3 +1,5 @@
+#Conjunto 3 - Algoritmos Gulosos - Algoritmo de Primm
+
 def prim(graph):
     # Número de vértices no grafo
     num_vertices = len(graph)
